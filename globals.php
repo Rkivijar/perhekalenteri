@@ -129,6 +129,11 @@
       "name"  => "Vadelmat",
       "color" => "#faa7b9",
       "image" => "backgrounds/vadelmat.jpg"
+    ),
+    "Galaxy"   => array(
+      "name"  => "Galaxy",
+      "color" => "#27164E",
+      "image" => "backgrounds/Galaxy.jpg"
     )
   );
 
